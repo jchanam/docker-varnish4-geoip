@@ -51,7 +51,8 @@ In addition this containers has geoipupdate, which (via cron) updates the databa
 
 ## Author(s)
 
-* Julio Chana (<julio.chana@bq.com*)
+* Julio Chana (<julio.chana@bq.com>)
 
 ---
-**Sponsored by** [BQ](http://www.bq.com)
+
+**Sponsored by [BQ](http://www.bq.com)**
