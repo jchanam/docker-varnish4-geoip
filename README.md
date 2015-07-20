@@ -37,7 +37,7 @@ By default, this container uses the GeoLite2 database (free, updated monthly).
 If you want to use a purchased database, you should link the license file with the container one:
 
 ```
--p LICENSE_DIR/GeoIP.conf /usr/local/etc/GeoIP.conf 
+-v LICENSE_DIR/GeoIP.conf:/usr/local/etc/GeoIP.conf:ro 
 ```
 
 In addition this containers has geoipupdate, which (via cron) updates the databases every friday.
