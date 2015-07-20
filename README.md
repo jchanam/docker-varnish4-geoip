@@ -1,8 +1,8 @@
 # Varnish with GeoIP Docker container
 
-> Debian 8
-> Varnish 4.x
-> GeoIP
+* Debian 8
+* Varnish 4.x
+* GeoIP
 
 ## Usage
 
@@ -44,14 +44,14 @@ In addition this containers has geoipupdate, which (via cron) updates the databa
 
 ## Links to software used
 
-> [Varnish](https://www.varnish-cache.org/)
-> [Varnish GeoIP library](https://github.com/varnish/libvmod-geoip)
-> [GeoIP](https://www.maxmind.com/en/geoip2-databases)
-> [GeoIP Update](https://github.com/maxmind/geoipupdate)
+* [Varnish](https://www.varnish-cache.org/)
+* [Varnish GeoIP library](https://github.com/varnish/libvmod-geoip)
+* [GeoIP](https://www.maxmind.com/en/geoip2-databases)
+* [GeoIP Update](https://github.com/maxmind/geoipupdate)
 
 ## Author(s)
 
-* Julio Chana (<julio.chana@bq.com>)
+* Julio Chana (<julio.chana@bq.com*)
 
 ---
 **Sponsored by** [BQ](http://www.bq.com)
